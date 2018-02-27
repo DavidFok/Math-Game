@@ -19,4 +19,7 @@ def intro
     gets
     puts 'The last player standing is the winner!'
     gets
+    puts 'You guys ready!'
+    gets
+    puts 'Begin!'
 end
